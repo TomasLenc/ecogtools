@@ -59,3 +59,8 @@ target/
 # Mac extension
 *.DS_Store
 
+# ipython notebook
+*.ipynb_checkpoints
+
+*.zip
+src
